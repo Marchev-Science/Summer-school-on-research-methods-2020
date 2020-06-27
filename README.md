@@ -1,4 +1,4 @@
-#Summer school on research methods '2020
+# Summer school on research methods '2020
 
 **Location**: Online in Zoom session (Aproved participants would receive hyperlink)
 
@@ -19,11 +19,11 @@
 **Official language**: For written materials - English, for lectures - Bulgarian or English.
 
 **Technical requirements**: Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
-Python 3.6 (https://www.anaconda.com/download/)
-Jupyter (https://jupyter.org/install)
-R (https://cran.r-project.org/bin/windows/base/)
-R Studio (https://www.rstudio.com/products/rstudio/download/#download)
-Orange (https://orange.biolab.si/download/)
+* Python 3.6 (https://www.anaconda.com/download/)
+* Jupyter (https://jupyter.org/install)
+* R (https://cran.r-project.org/bin/windows/base/)
+* R Studio (https://www.rstudio.com/products/rstudio/download/#download)
+* Orange (https://orange.biolab.si/download/)
 
 **Facebook group**: https://www.facebook.com/groups/223483361788013/
 
