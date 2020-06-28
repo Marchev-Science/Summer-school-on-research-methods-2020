@@ -102,7 +102,7 @@
 12:30 - 13:00 Closing ceremony  
 
 
- * In reserve:  
+\* In reserve:  
 Tensorflow.js case  
 Vladimir Vasilev  
 Introduction to Matlab  
