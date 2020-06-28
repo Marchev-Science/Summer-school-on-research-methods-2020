@@ -49,60 +49,60 @@
 * Yulian Borisov (julian.borisov@yahoo.com)
 * Evgeni Ovcharov (trulr6@yahoo.com)
 
-**Program**
+##Program
 (working version)  
-2020-07-18 Fundamentals   
+**2020-07-18 Fundamentals**  
 09:30 - 10:30 Organizational issues  
 11:00 - 13:00 Opening session: Angel Marchev, senior - The scientific method  
 14:00 - 17:00 Alexander Efremov and Kaloyan Haralampiev: Data mining - methods and main tasks  
 17:00 - 19:30 Workshop: Explaining the cases  
   
-2020-07-19 Fundamentals  
+**2020-07-19 Fundamentals**  
 09:30 - 11:00 Angel Marchev, Sr. - General Theory of Systems, a systematic approach to research  
 11:30 - 13:00 Workshop: Petar Nikolov - Introduction to Python & Jupyter notebook
 14:00 - 17:00 Workshop: Boryana Bogdanova - Introduction to R & R studio  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-20 Fundamentals  
+**2020-07-20 Fundamentals**  
 09:30 - 11:30 Angel Marchev, Sr. - Cybernetics for the study of complex systems with feedback  
 11:30 - 13:00 Boryana Bogdanova - Data preparation  
 14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-21 Probabilities  
+**2020-07-21 Probabilities**  
 09:30 - 11:00 Mladen Savov - Introduction to probabilities  
 11:00 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
 14:00 - 17:00 Workshop: Yulian Borisov - Introduction to Orange  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-22 Machine learning methods  
+**2020-07-22 Machine learning methods**  
 09:30 - 11:00 Alexander Efremov - Introduction and methods for optimization  
 11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems  
 14:00 - 17:00 Pavel Nikolov - Fast Fourier Transform  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-23 Artificial intelligence  
+**2020-07-23 Artificial intelligence**  
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
 11:30 - 13:00 Demir Tonchev - Reinforced learning  
 14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-24 Deep Learning 
+**2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
 11:30 - 13:00 Yassen Kiprov - ANN case study (not confirmed)*  
 14:00 - 15:30 Svetlin Penkov - GAN (not confirmed)*  
 14:00 - 15:30 Evgeni Marinov - Graph ANN (not confirmed)*  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-25 Hackathon  
+**2020-07-25 Hackathon**  
 09:30 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-26 Perspectives  
+**2020-07-26 Perspectives**  
 09:30 - 12:30 Conference - presentation of the solutions to the case assignments  
 12:30 - 13:00 Closing ceremony  
 
 
-\* In reserve:  
+\\* In reserve:  
 Tensorflow.js case  
 Vladimir Vasilev  
 Introduction to Matlab  
