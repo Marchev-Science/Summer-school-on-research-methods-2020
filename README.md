@@ -49,7 +49,7 @@
 * Yulian Borisov (julian.borisov@yahoo.com)
 * Evgeni Ovcharov (trulr6@yahoo.com)
 
-##Program
+## Program
 (working version)  
 **2020-07-18 Fundamentals**  
 09:30 - 10:30 Organizational issues  
