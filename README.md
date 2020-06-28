@@ -47,12 +47,7 @@
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Yulian Borisov (julian.borisov@yahoo.com)
-
-evgeni
-evgeni
-yassen
-svetlin
-MSSP
+* Evgeni Ovcharov (trulr6@yahoo.com)
 
 **Program**
 (working version)  
@@ -64,7 +59,7 @@ MSSP
   
 2020-07-19 Fundamentals  
 09:30 - 11:00 Angel Marchev, Sr. - General Theory of Systems, a systematic approach to research  
-11:00 - 13:00 Workshop: Petar Nikolov - Introduction to Python & Jupyter notebook
+11:30 - 13:00 Workshop: Petar Nikolov - Introduction to Python & Jupyter notebook
 14:00 - 17:00 Workshop: Boryana Bogdanova - Introduction to R & R studio  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -77,41 +72,37 @@ MSSP
 2020-07-21 Probabilities  
 09:30 - 11:00 Mladen Savov - Introduction to probabilities  
 11:00 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
-14:00 - 17:00 Workshop: Yulian Boriso - Introduction to Orange  
+14:00 - 17:00 Workshop: Yulian Borisov - Introduction to Orange  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 2020-07-22 Machine learning methods
-09:30 - 11:00 Alexander Efremov - Introduction and basic methods for optimization  
-11:30 - 13:00 Pavel Nikolov - Fast Fourie Transform  
-14:00 - 17:00 Workshop: Alexander Efremov - Choice of model structure  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
+09:30 - 11:00 Alexander Efremov - Introduction and methods for optimization
+11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems
+14:00 - 17:00 Pavel Nikolov - Fast Fourier Transform  
+17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 2020-07-23 Artificial intelligence  
-09:30 - 13:00 Angel Marchev, senior: multi-row selection procedures  
-14:00 - 17:00 Workshop: Vladimir Vassilev - neural networks  
+09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
+11:30 - 13:00 Demir Tonchev - Reinforced learning  
+14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-Workshop: Demir Tonchev - Reinforced learning  
+2020-07-24 Deep Learning 
+09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
+11:30 - 13:00 Yassen Kiprov - ANN case study (not confirmed)*  
+14:00 - 15:30 Svetlin Penkov - GAN (not confirmed)*  
+14:00 - 15:30 Evgeni Marinov - Graph ANN (not confirmed)*  
+17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-24 Perspectives  
-09:30 - 09:45 Presentation of the Data Science Society  
-09:45 - 11:00 Gloria Hristova - Analysis of unstructured data  
-11:00 - 11:45 Martin Martinov - Text mining  
-11:45 - 13:30 Conference - presentation of the solutions to the challenges  
-13:30 - 16:00 Outdoor excursion, Rila National Park, Kebabs of Malyovitsa Central Primary School  
-16:00 - 16:30 Departure and departure  
-
-2020-07-25 Artificial intelligence  
-09:30 - 13:00 Angel Marchev, senior: multi-row selection procedures  
-13:00 - 14:00 Lunch break  
-14:00 - 17:00 Workshop: Vladimir Vassilev - neural networks  
-17:00 - 19:30 work on the challenges  
-19:30 - 22:00 Networking and free (?) Time  
+2020-07-25 Hackathon  
+09:30 - 19:30 Workshop: Teamwork on case assignments  
 
 2020-07-26 Perspectives  
-09:30 - 09:45 Presentation of the Data Science Society  
-09:45 - 11:00 Gloria Hristova - Analysis of unstructured data  
-11:00 - 11:45 Martin Martinov - Text mining  
-11:45 - 13:30 Conference - presentation of the solutions to the challenges  
-13:30 - 16:00 Outdoor excursion, Rila National Park, Kebabs of Malyovitsa Central Primary School  
-16:00 - 16:30 Departure and departure  
+09:30 - 12:30 Conference - presentation of the solutions to the case assignments  
+12:30 - 13:00 Closing ceremony  
+
+
+* In reserve:
+Tensorflow.js case
+Vladimir Vasilev
+Introduction to Matlab
