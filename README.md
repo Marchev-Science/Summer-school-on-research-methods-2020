@@ -75,9 +75,9 @@
 14:00 - 17:00 Workshop: Yulian Borisov - Introduction to Orange  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-2020-07-22 Machine learning methods
-09:30 - 11:00 Alexander Efremov - Introduction and methods for optimization
-11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems
+2020-07-22 Machine learning methods  
+09:30 - 11:00 Alexander Efremov - Introduction and methods for optimization  
+11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems  
 14:00 - 17:00 Pavel Nikolov - Fast Fourier Transform  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
