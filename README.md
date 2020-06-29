@@ -48,6 +48,8 @@
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Yulian Borisov (julian.borisov@yahoo.com)
 * Evgeni Ovcharov (trulr6@yahoo.com)
+* Yasen Kiprov (yasen.kiprov@gmail.com)
+* Evgeniy Marinov (marinov.evgeniy@gmail.com)
 
 ## Programme
 (working version)  
@@ -64,45 +66,46 @@
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-20 Fundamentals**  
-09:30 - 11:30 Angel Marchev, Sr. - Cybernetics for the study of complex systems with feedback  
-11:30 - 13:00 Boryana Bogdanova - Data preparation  
+09:30 - 11:00 Angel Marchev, Sr. - Cybernetics for the study of complex systems with feedback  
+11:30 - 13:00 Angel Marchev, Jr. - Introduction to Matlab  
 14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-21 Probabilities**  
+**2020-07-21 Mathematical concepts**  
 09:30 - 11:00 Mladen Savov - Introduction to probabilities  
 11:00 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
-14:00 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
-
-**2020-07-22 Machine learning methods**  
-09:30 - 11:00 Alexander Efremov - Introduction and methods for optimization  
-11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems  
-14:00 - 17:00 Pavel Nikolov - Fast Fourier Transform  
+14:00 - 15:30 Alexander Efremov - Introduction and methods for optimization  
+16:00 - 17:30 Pavel Nikolov - Fast Fourier Transform  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-23 Artificial intelligence**  
+**2020-07-22 Machine learning methods**  
+09:30 - 11:00 Boryana Bogdanova - Data preparation  
+11:30 - 13:00 Demir Tonchev - ML workflow  
+14:00 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME  
+17:30 - 19:30 Workshop: Teamwork on case assignments  
+
+**2020-07-23 Applications**
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
-11:30 - 13:00 Demir Tonchev - Reinforced learning  
-14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
+11:30 - 13:00 Evgeniy Marinov - Recommendation systems 
+14:00 - 15:30 Evgeni Ovcharov - Introduction to sport rating systems  
+16:00 - 17:30 Angel Marchev, Jr. - Tensorflow.js case study  
+17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
-11:30 - 13:00 Yassen Kiprov - ANN case study (not confirmed)*  
-14:00 - 15:30 Svetlin Penkov - GAN (not confirmed)*  
-14:00 - 15:30 Evgeni Marinov - Graph ANN (not confirmed)*  
+11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN  
+14:00 - 17:00 Svetlin Penkov - (not confirmed)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-25 Hackathon**  
-09:30 - 19:30 Workshop: Teamwork on case assignments  
+**2020-07-25 Artificial intelligence**  
+09:30 - 11:00 Demir Tonchev - Reinforced learning  
+11:30 - 13:00 Mihail Motzev - Active neuron MLP  
+14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
+17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-26 Perspectives**  
-09:30 - 12:30 Conference - presentation of the solutions to the case assignments  
-12:30 - 13:00 Closing ceremony  
+09:30 - 13:00 Workshop: Teamwork on case assignments  
+14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
+17:00 - 17:30 Closing ceremony  
 
-
-In reserve:  
-Tensorflow.js case  
 Vladimir Vasilev  
-Introduction to Matlab  
