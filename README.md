@@ -18,7 +18,7 @@
 
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will bi issued to those who successfully pass the Summer school. The requirements are at least 70% active participation in the classes and participation in a team with a presented solution at the end. Participants who cannot take part fulltime can also join classes, but will not receive a certificate.
 
-**Target audience**: PhD students in their first 18 months and advanced graduates from: UNWE - Department of Management and Department of Statistics, Sofia University, Faculty of Economics and Faculty of Philosophy, Technical University, Data Science Society and others. Participants come only at the personal invitation of their supervisor or university manager. 
+**Target audience**: PhD students in their first 18 months and advanced graduates from: UNWE - Department of Management and Department of Statistics, Sofia University, Faculty of Economics and Faculty of Philosophy, Technical University, Data Science Society and others.  
 
 **Official language**: For written materials - English, for lectures - Bulgarian or English.
 
