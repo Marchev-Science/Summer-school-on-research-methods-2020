@@ -87,7 +87,7 @@
 
 **2020-07-23 Applications**  
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
-11:30 - 13:00 Evgeniy Marinov - Recommendation systems 
+11:30 - 13:00 Evgeniy Marinov - Recommendation systems  
 14:00 - 15:30 Evgeni Ovcharov - Introduction to sport rating systems  
 16:00 - 17:30 Angel Marchev, Jr. - Tensorflow.js case study  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
