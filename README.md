@@ -72,7 +72,7 @@
 **2020-07-21 Probabilities**  
 09:30 - 11:00 Mladen Savov - Introduction to probabilities  
 11:00 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
-14:00 - 17:00 Workshop: Yulian Borisov - Introduction to Orange  
+14:00 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-22 Machine learning methods**  
