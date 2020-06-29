@@ -1,6 +1,8 @@
 # Summer school on research methods '2020
 
-**Location**: Online in Zoom session (Aproved participants would receive hyperlink)
+**Application**: Deadline for application is July 10, 2020 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
+
+**Location**: Online in Zoom sessions (Aproved participants would receive hyperlink)
 
 **Time**: July 18-26, 2020 
 
@@ -17,8 +19,6 @@
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will bi issued to those who successfully pass the Summer school. The requirements are at least 70% active participation in the classes and participation in a team with a presented solution at the end. Participants who cannot take part fulltime can also join classes, but will not receive a certificate.
 
 **Target audience**: PhD students in their first 18 months and advanced graduates from: UNWE - Department of Management and Department of Statistics, Sofia University, Faculty of Economics and Faculty of Philosophy, Technical University, Data Science Society and others. Participants come only at the personal invitation of their supervisor or university manager. 
-
-**Application**: Deadline for application is July 10, 2020 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
 **Official language**: For written materials - English, for lectures - Bulgarian or English.
 
