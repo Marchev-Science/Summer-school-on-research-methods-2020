@@ -23,15 +23,16 @@
 **Official language**: For written materials - English, for lectures - Bulgarian or English.
 
 **Technical requirements**: Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
-* Python 3.8 (https://www.anaconda.com/download/)
-* Jupyter Notebook (https://jupyter.org/install)
-* R (https://cran.r-project.org/bin/windows/base/)
-* R Studio (https://www.rstudio.com/products/rstudio/download/#download)
-* Orange (https://orange.biolab.si/download/)
-* Matlab Trial (https://www.mathworks.com/campaigns/products/trials.html)
-* KNIME (https://www.knime.com/downloads)
+* Python 3.8 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* Jupyter Notebook [https://jupyter.org/install](https://jupyter.org/install)
+* R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+* R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
+* Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
+* Matlab Trial [https://www.mathworks.com/campaigns/products/trials.html](https://www.mathworks.com/campaigns/products/trials.html)
+* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)
+* Registration in Github [https://github.com](https://github.com)
 
-**Facebook group**: https://www.facebook.com/groups/223483361788013/
+**Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
 **Host**: Faculty of Economics, Sofia University
 
@@ -94,12 +95,12 @@
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
 11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN  
-14:00 - 17:00 Svetlin Penkov - (not confirmed)  
+14:00 - 17:00 Svetlin Penkov - (not confirmed)  / Vladimir Vasilev  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-25 Artificial intelligence**  
 09:30 - 11:00 Demir Tonchev - Reinforced learning  
-11:30 - 13:00 Mihail Motzev - Active neuron MLP  
+11:30 - 13:00 Mihail Motzev - Active neuron MLP (not confirmed)    
 14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -107,5 +108,3 @@
 09:30 - 13:00 Workshop: Teamwork on case assignments  
 14:00 - 17:00 Conference - presentation of the solutions to the case assignments  
 17:00 - 17:30 Closing ceremony  
-
-Vladimir Vasilev  
