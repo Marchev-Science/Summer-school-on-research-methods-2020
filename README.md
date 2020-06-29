@@ -18,7 +18,7 @@
 
 **Target audience**: PhD students in their first 18 months and advanced graduates from: UNWE - Department of Management and Department of Statistics, Sofia University, Faculty of Economics and Faculty of Philosophy, Technical University, Data Science Society and others. Participants come only at the personal invitation of their supervisor or university manager. 
 
-**Application**: Deadline for application is July 10, 2020 by filling-in this application form: https://forms.gle/r1RAMQjYJqWaWDib9. Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
+**Application**: Deadline for application is July 10, 2020 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
 **Official language**: For written materials - English, for lectures - Bulgarian or English.
 
