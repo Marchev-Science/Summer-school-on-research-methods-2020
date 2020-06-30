@@ -62,7 +62,7 @@
   
 **2020-07-19 Fundamentals**  
 09:30 - 11:00 Angel Marchev, Sr. - General Theory of Systems, a systematic approach to research  
-11:30 - 13:00 Workshop: Petar Nikolov - Introduction to Python & Jupyter notebook
+11:30 - 13:00 Workshop: Petar Nikolov - Introduction to Python & Jupyter notebook  
 14:00 - 17:00 Workshop: Boryana Bogdanova - Introduction to R & R studio  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
