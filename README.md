@@ -50,6 +50,7 @@
 * Evgeni Ovcharov (trulr6@yahoo.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
 * Evgeniy Marinov (marinov.evgeniy@gmail.com)
+* Atanas Atanassov (atanassov@econometrica.bg)
 
 ## Programme
 (working version)  
