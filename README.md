@@ -94,12 +94,12 @@
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
 11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN  
-14:00 - 17:00 Svetlin Penkov - (not confirmed)  / Vladimir Vasilev  
+14:00 - 17:00 Vladimir Vasilev - (not confirmed)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-25 Artificial intelligence**  
 09:30 - 11:00 Demir Tonchev - Reinforced learning  
-11:30 - 13:00 Mihail Motzev - Active neuron MLP (not confirmed)    
+11:30 - 13:00 Mihail Motzev - Statistical Learning Networks    
 14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Self-organization  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
