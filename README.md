@@ -28,7 +28,6 @@
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
-* Matlab Trial [https://www.mathworks.com/campaigns/products/trials.html](https://www.mathworks.com/campaigns/products/trials.html)
 * KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)
 * Registration in Github [https://github.com](https://github.com)
 
@@ -68,8 +67,8 @@
 
 **2020-07-20 Fundamentals**  
 09:30 - 11:00 Angel Marchev, Sr. - Cybernetics for the study of complex systems with feedback  
-11:30 - 13:00 Angel Marchev, Jr. - Introduction to Matlab  
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange  
+11:30 - 13:30 Workshop: Kaloyan Haralampiev - Introduction to Orange  
+14:30 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-21 Mathematical concepts**  
@@ -81,8 +80,8 @@
 
 **2020-07-22 Machine learning methods**  
 09:30 - 11:00 Boryana Bogdanova - Data preparation  
-11:30 - 13:00 Demir Tonchev - ML workflow  
-14:00 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME  
+11:30 - 13:00 Atanas Atanassov - How to prepare comparative time series  
+14:00 - 17:00 Workshop: Demir Tonchev - ML workflow  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-23 Applications**  
