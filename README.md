@@ -56,7 +56,7 @@
 (working version)  
 **2020-07-18 Fundamentals**  
 09:30 - 10:30 Organizational issues  
-11:00 - 13:00 Opening session: Angel Marchev, senior - The scientific method  
+11:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method  
 14:00 - 17:00 Alexander Efremov and Kaloyan Haralampiev: Data mining - methods and main tasks  
 17:00 - 19:30 Workshop: Explaining the cases  
   
@@ -87,10 +87,9 @@
 
 **2020-07-23 Applications**  
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
-11:30 - 13:00 Evgeniy Marinov - Recommendation systems  
-14:00 - 15:30 Evgeni Ovcharov - Introduction to sport rating systems  
-16:00 - 17:30 Angel Marchev, Jr. - Tensorflow.js case study  
-17:30 - 19:30 Workshop: Teamwork on case assignments  
+11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems  
+14:00 - 17:00 Evgeniy Marinov - Recommendation systems  
+17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN  
