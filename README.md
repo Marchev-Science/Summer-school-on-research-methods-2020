@@ -33,7 +33,7 @@
 
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
-**Host**: Faculty of Economics, Sofia University
+**Organizer**: Faculty of Economics, Sofia University. For questions: angel.marchev@basaga.org
 
 **Lecturers**:
 * Angel Marchev Jr. (angel.marchev@yahoo.com)
