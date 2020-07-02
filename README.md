@@ -100,7 +100,7 @@
 
 **2020-07-25 Artificial intelligence**  
 09:30 - 11:00 Demir Tonchev - Reinforced learning  
-11:30 - 13:00 Angel Marchev, Jr. - Self-organization Concepts
+11:30 - 13:00 Angel Marchev, Jr. - Self-organization Concepts  
 14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Multi-stage selection procedure  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
