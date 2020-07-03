@@ -73,10 +73,10 @@
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-21 Mathematical concepts**  
-09:30 - 11:00 Mladen Savov - Introduction to probabilities  
-11:00 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
-14:00 - 15:30 Alexander Efremov - Introduction and methods for optimization  
-16:00 - 17:30 Pavel Nikolov - Fast Fourier Transform  
+09:30 - 11:00 Mladen Savov - Introduction to probability  
+11:30 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
+14:00 - 15:00 Alexander Efremov - Introduction and methods for optimization  
+15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-22 Machine learning methods**  
@@ -86,9 +86,9 @@
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-23 Applications**  
-09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure  
-11:30 - 13:00 Evgeni Ovcharov - Introduction to sport rating systems  
-14:00 - 17:00 Evgeniy Marinov - Recommendation systems  
+09:30 - 11:00 Evgeni Ovcharov - Introduction to sport rating systems  
+11:30 - 13:30 Evgeniy Marinov - Recommendation systems  
+14:30 - 16:00 Workshop: Alexander Efremov - Choice of model structure  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-24 Deep Learning**  
