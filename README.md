@@ -14,7 +14,7 @@
 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects. 
 
-**Cases**: As part of the SUmmer school the participants would have to solve and present a case, out of several options, which will be presented on the first day.
+**Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day.
 
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school. The requirements are at least 70% active participation in the classes and participation in a team with a presented solution at the end. Participants who cannot take part fulltime can also join classes, but will not receive a certificate.
 
