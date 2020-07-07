@@ -36,7 +36,7 @@
 **Organizer**: Faculty of Economics, Sofia University. For questions: angel.marchev@basaga.org
 
 **Lecturers**:
-* Angel Marchev Jr. (angel.marchev@yahoo.com)
+* Angel Marchev Jr. (angel.marchev@basaga.org)
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
 * Alexander Efremov (aefremov@gmail.com)
 * Atanas Atanassov (atanassov@econometrica.bg)
