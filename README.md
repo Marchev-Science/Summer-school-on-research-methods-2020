@@ -77,7 +77,7 @@
 **2020-07-21 Mathematical concepts**  
 09:30 - 11:00 Mladen Savov - Introduction to probability  
 11:30 - 13:00 Kaloyan Haralampiev - Bayes paradigm  
-14:00 - 15:00 Alexander Efremov - Introduction and methods for optimization  
+14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization  
 15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
