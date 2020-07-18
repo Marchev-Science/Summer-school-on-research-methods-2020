@@ -60,17 +60,17 @@
 **2020-07-18 Fundamentals**  
 09:30 - 10:30 Organizational issues  
 11:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method  
-14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](), [materials](/efremov/readme.md)  
+14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](), [materials](/efremov/)  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-19 Fundamentals**  
-09:30 - 11:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/readme.md)  
+09:30 - 11:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/)  
 11:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](), [materials]()  
-14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](), [materials](/borisov/readme.md)  
+14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](), [materials](/borisov/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-20 Fundamentals**  
-09:30 - 11:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](/marchev/readme.md)  
+09:30 - 11:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](/marchev/)  
 11:30 - 13:00 Boryana Bogdanova - Introduction to R & R studio [video](), [materials]()  
 14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](), [materials]()  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
