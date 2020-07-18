@@ -66,7 +66,7 @@
 **2020-07-19 Fundamentals**  
 09:30 - 11:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/readme.md)  
 11:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](), [materials]()  
-14:30 - 17:00 Workshop: Yulian Borisov - Introduction to KNIME [video](), [materials]()  
+14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](), [materials](/borisov/readme.md)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-20 Fundamentals**  
