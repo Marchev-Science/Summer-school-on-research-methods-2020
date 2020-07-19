@@ -60,51 +60,51 @@
 **2020-07-18 Fundamentals**  
 09:30 - 10:30 Organizational issues  
 11:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method  
-14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/efremov/)  
+14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-19 Fundamentals**  
-09:30 - 12:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/)  
-12:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/marchev-jr/)  
-14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/borisov/)  
+09:30 - 12:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev/)  
+12:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
+14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/borisov/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-20 Fundamentals**  
-09:30 - 11:30 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](/marchev/)  
-12:00 - 13:00 Boryana Bogdanova - Introduction to R & R studio [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:30 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev/)  
+12:00 - 13:00 Boryana Bogdanova - Introduction to R & R studio [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-21 Mathematical concepts**  
-09:30 - 11:00 Mladen Savov - Introduction to probability [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-11:30 - 13:00 Kaloyan Haralampiev - Bayes paradigm [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:00 Mladen Savov - Introduction to probability [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/savov/)  
+11:30 - 13:00 Kaloyan Haralampiev - Bayes paradigm [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/)  
+14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  
+15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/nikolov/)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-22 Machine learning methods**  
-09:30 - 11:00 Boryana Bogdanova - Data preparation [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:00 Boryana Bogdanova - Data preparation [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  
 11:30 - 13:00 Atanas Atanassov - How to prepare comparative time series [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:00 - 17:00 Workshop: Demir Tonchev - ML workflow [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+14:00 - 17:00 Workshop: Demir Tonchev - ML workflow [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/tonchev/)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-23 Applications**  
 09:30 - 11:00 Evgeni Ovcharov - Introduction to sport rating systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
 11:30 - 13:30 Evgeniy Marinov - Recommendation systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:30 - 16:00 Workshop: Alexander Efremov - Choice of model structure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+14:30 - 16:00 Workshop: Alexander Efremov - Choice of model structure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
 11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:00 - 15:30 Mihail Motzev - Statistical Learning Networks [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-15:30 - 17:00 Mihail Motzev - KnowledgeMiner for Excel (Insights) [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+14:00 - 15:30 Mihail Motzev - Statistical Learning Networks [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/motzev/)  
+15:30 - 17:00 Mihail Motzev - KnowledgeMiner for Excel (Insights) [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/motzev/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-25 Artificial intelligence**  
-09:30 - 11:00 Demir Tonchev - Reinforced learning [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-11:30 - 13:00 Angel Marchev, Jr. - Self-organization Concepts [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Multi-stage selection procedure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:00 Demir Tonchev - Reinforced learning [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/tonchev/)  
+11:30 - 13:00 Angel Marchev, Jr. - Self-organization Concepts [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
+14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Multi-stage selection procedure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-26 Perspectives**  
