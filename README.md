@@ -64,14 +64,14 @@
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-19 Fundamentals**  
-09:30 - 11:30 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/)  
-12:00 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/marchev-jr/)  
+09:30 - 12:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research [materials](/marchev/)  
+12:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/marchev-jr/)  
 14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](/borisov/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-20 Fundamentals**  
-09:30 - 11:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](/marchev/)  
-11:30 - 13:00 Boryana Bogdanova - Introduction to R & R studio [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:30 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [materials](/marchev/)  
+12:00 - 13:00 Boryana Bogdanova - Introduction to R & R studio [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
 14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
