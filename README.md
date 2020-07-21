@@ -77,7 +77,7 @@
 
 **2020-07-21 Mathematical concepts**  
 09:30 - 11:00 Mladen Savov - Introduction to probability [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/savov/)  
-11:30 - 13:00 Kaloyan Haralampiev - Bayes paradigm [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/)  
+11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/)  
 14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  
 15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/nikolov/)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
