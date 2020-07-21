@@ -84,7 +84,7 @@
 
 **2020-07-22 Machine learning methods**  
 09:30 - 11:00 Boryana Bogdanova - Data preparation [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  
-11:30 - 13:00 Atanas Atanassov - How to prepare comparative time series [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+11:30 - 13:00 Atanas Atanassov - How to prepare comparative time series [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/tonchev/)  
 14:00 - 17:00 Workshop: Demir Tonchev - ML workflow [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/tonchev/)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
