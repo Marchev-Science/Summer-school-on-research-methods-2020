@@ -89,10 +89,10 @@
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-23 Applications**  
-09:30 - 11:00 Evgeni Ovcharov - Introduction to sport rating systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-11:30 - 13:00 Evgeniy Marinov - Recommendation systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+09:30 - 11:00 Evgeni Ovcharov - Introduction to sport rating systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/ovcharov/)  
+11:30 - 13:00 Evgeniy Marinov - Recommendation systems [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marinov/)  
 14:00 - 16:00 Workshop: Alexander Efremov - Choice of model structure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  
-16:30 - 17:30 Student's choice workshop 
+16:30 - 17:30 Workshop: Angel Marchev - Image classification workflow with TensorFlow anf TensorFlow.js [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-24 Deep Learning**  
