@@ -97,7 +97,7 @@
 
 **2020-07-24 Deep Learning**  
 09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
-11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  
+11:30 - 13:00 Yassen Kiprov - Hugingface: a platform for easy use of ANN [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/kiprov/)  
 14:00 - 15:30 Mihail Motzev - Statistical Learning Networks [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/motzev/)  
 15:30 - 17:00 Mihail Motzev - KnowledgeMiner for Excel (Insights) [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/motzev/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
