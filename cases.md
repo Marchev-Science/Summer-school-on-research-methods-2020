@@ -1,3 +1,14 @@
+Delivery of the case solutions:
+
+1. Before the 14:30 deadline you should deliver the solutions [https://forms.gle/DXyHt55Hm6YssCFK7](here...)  
+2. The solution should consist of at least the following:  
+* Code / workflow files which could be run on some of the required software for the summer school  
+* In the code or in additional files there should be complete explanations, visualisations and data anaysis results to solve the case  
+* List of authors  
+3. There could be more than one solution per team.  
+4. Each team will be given about 15-20 minutes to present their solutions followed by Q&A session.
+
+
 The cases for this year's Summer school are:  
 
 1. Status of a bank loan - predict the status of the loans in the testing set, based on the training set.  
