@@ -1,6 +1,6 @@
 Delivery of the case solutions:
 
-1. Before the 14:30 deadline you should deliver the solutions [https://forms.gle/DXyHt55Hm6YssCFK7](here...)  
+1. Before the 14:30 deadline you should deliver the solutions [https://forms.gle/oRRWww2XTRPE1F1p6](here...)  
 2. The solution should consist of at least the following:  
 * Code / workflow files which could be run on some of the required software for the summer school  
 * In the code or in additional files there should be complete explanations, visualisations and data anaysis results to solve the case  
