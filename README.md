@@ -104,8 +104,8 @@
 
 **2020-07-25 Artificial intelligence**  
 09:30 - 11:00 Demir Tonchev - Reinforced learning [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/tonchev/)  
-11:30 - 13:00 Angel Marchev, Jr. - Self-organization Concepts [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
-14:00 - 17:00 Workshop: Angel Marchev, Jr. -  Multi-stage selection procedure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
+11:30 - 13:30 Angel Marchev, Jr. - Self-organization Concepts [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
+14:30 - 17:00 Workshop: Angel Marchev, Jr. -  Multi-stage selection procedure [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-26 Perspectives**  
