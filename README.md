@@ -110,5 +110,5 @@
 
 **2020-07-26 Perspectives**  
 09:30 - 14:30 Workshop: Teamwork on case assignments  
-15:00 - 17:00 Conference - presentation of the solutions to the case assignments  
+15:00 - 17:00 Conference - presentation of the solutions to the case assignments [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  
 17:00 - 17:30 Closing ceremony  
