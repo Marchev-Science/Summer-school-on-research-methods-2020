@@ -1,5 +1,7 @@
 # Summer school on research methods '2020
 
+**Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-189-27.04.2020). 
+
 **Application**: Deadline for application is July 10, 2020 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
 **Location**: Online in Zoom sessions (Aproved participants would receive hyperlink)
