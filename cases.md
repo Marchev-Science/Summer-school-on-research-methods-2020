@@ -11,8 +11,8 @@ Delivery of the case solutions:
 
 The cases for this year's Summer school are:  
 
-1. Status of a bank loan - predict the status of the loans in the testing set, based on the training set.  
-[https://www.kaggle.com/zaurbegiev/my-dataset](https://www.kaggle.com/zaurbegiev/my-dataset)  
+1. Cryptocurrencies Predictions & AI Trader - predict the status of the loans in the testing set, based on the training set.  
+[https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data](https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data)  
 
 [Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case1),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)    
 
